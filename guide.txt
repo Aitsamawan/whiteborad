@@ -1,0 +1,4 @@
+initialize(one time):
+npm install     
+to start:
+npm start
